@@ -1,0 +1,3070 @@
+[
+  {
+    "id": "reading-001",
+    "category": "reading",
+    "difficulty": "basic",
+    "prompt": "穏やかな海",
+    "target": "穏やか",
+    "answers": [
+      "おだやか"
+    ],
+    "explanation": "静かで落ち着いた様子。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-002",
+    "category": "reading",
+    "difficulty": "basic",
+    "prompt": "環境を守る",
+    "target": "環境",
+    "answers": [
+      "かんきょう"
+    ],
+    "explanation": "周囲を取り巻く状態。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-003",
+    "category": "reading",
+    "difficulty": "basic",
+    "prompt": "貴重な経験",
+    "target": "貴重",
+    "answers": [
+      "きちょう"
+    ],
+    "explanation": "価値があり大切なこと。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-004",
+    "category": "reading",
+    "difficulty": "basic",
+    "prompt": "故郷を訪ねる",
+    "target": "故郷",
+    "answers": [
+      "こきょう",
+      "ふるさと"
+    ],
+    "explanation": "生まれ育った土地。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-005",
+    "category": "reading",
+    "difficulty": "basic",
+    "prompt": "誠実に答える",
+    "target": "誠実",
+    "answers": [
+      "せいじつ"
+    ],
+    "explanation": "真心があり、偽りがないこと。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-006",
+    "category": "reading",
+    "difficulty": "basic",
+    "prompt": "慎重に進む",
+    "target": "慎重",
+    "answers": [
+      "しんちょう"
+    ],
+    "explanation": "注意深く行動すること。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-007",
+    "category": "reading",
+    "difficulty": "basic",
+    "prompt": "柔軟な発想",
+    "target": "柔軟",
+    "answers": [
+      "じゅうなん"
+    ],
+    "explanation": "柔らかく、変化に対応できること。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-008",
+    "category": "reading",
+    "difficulty": "basic",
+    "prompt": "困難に挑む",
+    "target": "挑む",
+    "answers": [
+      "いどむ"
+    ],
+    "explanation": "困難に立ち向かう。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-009",
+    "category": "reading",
+    "difficulty": "basic",
+    "prompt": "需要が増える",
+    "target": "需要",
+    "answers": [
+      "じゅよう"
+    ],
+    "explanation": "求められる量。供給と対になる。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-010",
+    "category": "reading",
+    "difficulty": "basic",
+    "prompt": "規模を拡大する",
+    "target": "規模",
+    "answers": [
+      "きぼ"
+    ],
+    "explanation": "物事の大きさ。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-011",
+    "category": "reading",
+    "difficulty": "standard",
+    "prompt": "契約を結ぶ",
+    "target": "契約",
+    "answers": [
+      "けいやく"
+    ],
+    "explanation": "約束を取り決めること。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-012",
+    "category": "reading",
+    "difficulty": "standard",
+    "prompt": "提案を承認する",
+    "target": "承認",
+    "answers": [
+      "しょうにん"
+    ],
+    "explanation": "認めて受け入れること。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-013",
+    "category": "reading",
+    "difficulty": "standard",
+    "prompt": "利益を得る",
+    "target": "利益",
+    "answers": [
+      "りえき"
+    ],
+    "explanation": "得になること。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-014",
+    "category": "reading",
+    "difficulty": "standard",
+    "prompt": "責任を負う",
+    "target": "負う",
+    "answers": [
+      "おう"
+    ],
+    "explanation": "引き受けること。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-015",
+    "category": "reading",
+    "difficulty": "standard",
+    "prompt": "食事を賄う",
+    "target": "賄う",
+    "answers": [
+      "まかなう"
+    ],
+    "explanation": "必要なものを用意する。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-016",
+    "category": "reading",
+    "difficulty": "standard",
+    "prompt": "人を戒める",
+    "target": "戒める",
+    "answers": [
+      "いましめる"
+    ],
+    "explanation": "過ちをしないよう注意する。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-017",
+    "category": "reading",
+    "difficulty": "standard",
+    "prompt": "釣り合いを保つ",
+    "target": "釣り合い",
+    "answers": [
+      "つりあい"
+    ],
+    "explanation": "互いの均衡が取れること。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-018",
+    "category": "reading",
+    "difficulty": "standard",
+    "prompt": "山の頂に立つ",
+    "target": "頂",
+    "answers": [
+      "いただき"
+    ],
+    "explanation": "山の最も高い所。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-019",
+    "category": "reading",
+    "difficulty": "standard",
+    "prompt": "湖畔を歩く",
+    "target": "湖畔",
+    "answers": [
+      "こはん"
+    ],
+    "explanation": "湖のほとり。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-020",
+    "category": "reading",
+    "difficulty": "standard",
+    "prompt": "静寂に包まれる",
+    "target": "静寂",
+    "answers": [
+      "せいじゃく"
+    ],
+    "explanation": "静まり返っていること。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-021",
+    "category": "reading",
+    "difficulty": "advanced",
+    "prompt": "事実を把握する",
+    "target": "把握",
+    "answers": [
+      "はあく"
+    ],
+    "explanation": "しっかり理解すること。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-022",
+    "category": "reading",
+    "difficulty": "advanced",
+    "prompt": "文章を推敲する",
+    "target": "推敲",
+    "answers": [
+      "すいこう"
+    ],
+    "explanation": "文章を何度も練り直すこと。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "pending",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-023",
+    "category": "reading",
+    "difficulty": "advanced",
+    "prompt": "催しに参加する",
+    "target": "催し",
+    "answers": [
+      "もよおし"
+    ],
+    "explanation": "集まりや行事。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-024",
+    "category": "reading",
+    "difficulty": "advanced",
+    "prompt": "著しい成長",
+    "target": "著しい",
+    "answers": [
+      "いちじるしい"
+    ],
+    "explanation": "目立ってはっきりしている。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-025",
+    "category": "reading",
+    "difficulty": "advanced",
+    "prompt": "潔い態度",
+    "target": "潔い",
+    "answers": [
+      "いさぎよい"
+    ],
+    "explanation": "未練がなく、きっぱりしている。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-026",
+    "category": "reading",
+    "difficulty": "advanced",
+    "prompt": "趣がある庭",
+    "target": "趣",
+    "answers": [
+      "おもむき"
+    ],
+    "explanation": "味わいや風情。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-027",
+    "category": "reading",
+    "difficulty": "advanced",
+    "prompt": "緩やかな坂",
+    "target": "緩やか",
+    "answers": [
+      "ゆるやか"
+    ],
+    "explanation": "傾きや変化が小さい様子。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-028",
+    "category": "reading",
+    "difficulty": "advanced",
+    "prompt": "稚い考え",
+    "target": "稚い",
+    "answers": [
+      "おさない"
+    ],
+    "explanation": "十分に成熟していない。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "pending",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-029",
+    "category": "reading",
+    "difficulty": "advanced",
+    "prompt": "収穫を祝う",
+    "target": "収穫",
+    "answers": [
+      "しゅうかく"
+    ],
+    "explanation": "作物を取り入れること。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "reading-030",
+    "category": "reading",
+    "difficulty": "advanced",
+    "prompt": "恩恵を受ける",
+    "target": "恩恵",
+    "answers": [
+      "おんけい"
+    ],
+    "explanation": "他から受ける恵み。",
+    "instruction": "太字の言葉の読みを、ひらがなで答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-001",
+    "category": "writing",
+    "difficulty": "basic",
+    "prompt": "自然をホゴする",
+    "target": "",
+    "answers": [
+      "保護"
+    ],
+    "explanation": "大切に守ること。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-002",
+    "category": "writing",
+    "difficulty": "basic",
+    "prompt": "明日のヨテイを立てる",
+    "target": "",
+    "answers": [
+      "予定"
+    ],
+    "explanation": "前もって決めること。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-003",
+    "category": "writing",
+    "difficulty": "basic",
+    "prompt": "将来のキボウを語る",
+    "target": "",
+    "answers": [
+      "希望"
+    ],
+    "explanation": "実現を願うこと。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-004",
+    "category": "writing",
+    "difficulty": "basic",
+    "prompt": "安全をカクニンする",
+    "target": "",
+    "answers": [
+      "確認"
+    ],
+    "explanation": "確かにそうだと認めること。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-005",
+    "category": "writing",
+    "difficulty": "basic",
+    "prompt": "チイキの行事",
+    "target": "",
+    "answers": [
+      "地域"
+    ],
+    "explanation": "一定の範囲の土地。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-006",
+    "category": "writing",
+    "difficulty": "basic",
+    "prompt": "努力のセイカが出る",
+    "target": "",
+    "answers": [
+      "成果"
+    ],
+    "explanation": "行ったことから得られた結果。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-007",
+    "category": "writing",
+    "difficulty": "basic",
+    "prompt": "問題をカイケツする",
+    "target": "",
+    "answers": [
+      "解決"
+    ],
+    "explanation": "問題を片付けること。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-008",
+    "category": "writing",
+    "difficulty": "basic",
+    "prompt": "友人をソンケイする",
+    "target": "",
+    "answers": [
+      "尊敬"
+    ],
+    "explanation": "相手を優れた人として敬うこと。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-009",
+    "category": "writing",
+    "difficulty": "basic",
+    "prompt": "セキニンを果たす",
+    "target": "",
+    "answers": [
+      "責任"
+    ],
+    "explanation": "果たすべき務め。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-010",
+    "category": "writing",
+    "difficulty": "basic",
+    "prompt": "キソクを守る",
+    "target": "",
+    "answers": [
+      "規則"
+    ],
+    "explanation": "行動の決まり。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-011",
+    "category": "writing",
+    "difficulty": "standard",
+    "prompt": "意見をシュチョウする",
+    "target": "",
+    "answers": [
+      "主張"
+    ],
+    "explanation": "自分の意見を強く述べること。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-012",
+    "category": "writing",
+    "difficulty": "standard",
+    "prompt": "相手の立場をリカイする",
+    "target": "",
+    "answers": [
+      "理解"
+    ],
+    "explanation": "意味や内容が分かること。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-013",
+    "category": "writing",
+    "difficulty": "standard",
+    "prompt": "大切なシゲン",
+    "target": "",
+    "answers": [
+      "資源"
+    ],
+    "explanation": "産業や生活に役立つもの。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-014",
+    "category": "writing",
+    "difficulty": "standard",
+    "prompt": "成功をキタイする",
+    "target": "",
+    "answers": [
+      "期待"
+    ],
+    "explanation": "望ましい結果を待つこと。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-015",
+    "category": "writing",
+    "difficulty": "standard",
+    "prompt": "課題をテイシュツする",
+    "target": "",
+    "answers": [
+      "提出"
+    ],
+    "explanation": "書類などを差し出すこと。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-016",
+    "category": "writing",
+    "difficulty": "standard",
+    "prompt": "技術がシンポする",
+    "target": "",
+    "answers": [
+      "進歩"
+    ],
+    "explanation": "よりよい状態に進むこと。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-017",
+    "category": "writing",
+    "difficulty": "standard",
+    "prompt": "食料をチョゾウする",
+    "target": "",
+    "answers": [
+      "貯蔵"
+    ],
+    "explanation": "後で使うため蓄えること。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-018",
+    "category": "writing",
+    "difficulty": "standard",
+    "prompt": "作業をブンタンする",
+    "target": "",
+    "answers": [
+      "分担"
+    ],
+    "explanation": "分けて受け持つこと。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-019",
+    "category": "writing",
+    "difficulty": "standard",
+    "prompt": "物語のコウセイを考える",
+    "target": "",
+    "answers": [
+      "構成"
+    ],
+    "explanation": "各部分を組み立てること。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-020",
+    "category": "writing",
+    "difficulty": "standard",
+    "prompt": "仲間をゲキレイする",
+    "target": "",
+    "answers": [
+      "激励"
+    ],
+    "explanation": "励まして元気づけること。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-021",
+    "category": "writing",
+    "difficulty": "advanced",
+    "prompt": "キョウドウで作業する",
+    "target": "",
+    "answers": [
+      "共同",
+      "協同"
+    ],
+    "explanation": "共同は一緒に行うこと。協同は力を合わせて行うこと。この文脈では両方を正解とします。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-022",
+    "category": "writing",
+    "difficulty": "advanced",
+    "prompt": "発言をキョカする",
+    "target": "",
+    "answers": [
+      "許可"
+    ],
+    "explanation": "行うことを認めること。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-023",
+    "category": "writing",
+    "difficulty": "advanced",
+    "prompt": "目標をタッセイする",
+    "target": "",
+    "answers": [
+      "達成"
+    ],
+    "explanation": "目標を成し遂げること。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-024",
+    "category": "writing",
+    "difficulty": "advanced",
+    "prompt": "新しい制度をドウニュウする",
+    "target": "",
+    "answers": [
+      "導入"
+    ],
+    "explanation": "新しい仕組みなどを取り入れること。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-025",
+    "category": "writing",
+    "difficulty": "advanced",
+    "prompt": "状況をハンダンする",
+    "target": "",
+    "answers": [
+      "判断"
+    ],
+    "explanation": "物事を見極めて決めること。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-026",
+    "category": "writing",
+    "difficulty": "advanced",
+    "prompt": "事実をショウメイする",
+    "target": "",
+    "answers": [
+      "証明"
+    ],
+    "explanation": "事実であることを明らかにすること。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-027",
+    "category": "writing",
+    "difficulty": "advanced",
+    "prompt": "美しいケシキ",
+    "target": "",
+    "answers": [
+      "景色"
+    ],
+    "explanation": "目に映る自然や町の様子。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-028",
+    "category": "writing",
+    "difficulty": "advanced",
+    "prompt": "部品をコウカンする",
+    "target": "",
+    "answers": [
+      "交換"
+    ],
+    "explanation": "取り替えること。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-029",
+    "category": "writing",
+    "difficulty": "advanced",
+    "prompt": "豊かなチシキ",
+    "target": "",
+    "answers": [
+      "知識"
+    ],
+    "explanation": "知っている事柄。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "writing-030",
+    "category": "writing",
+    "difficulty": "advanced",
+    "prompt": "文化をケイショウする",
+    "target": "",
+    "answers": [
+      "継承"
+    ],
+    "explanation": "受け継ぐこと。",
+    "instruction": "カタカナの部分を漢字で書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "radical-001",
+    "category": "radical",
+    "difficulty": "basic",
+    "prompt": "清",
+    "target": "",
+    "answers": [
+      "さんずい",
+      "水",
+      "氵"
+    ],
+    "explanation": "水に関係する部首。",
+    "instruction": "部首名を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "radical-002",
+    "category": "radical",
+    "difficulty": "basic",
+    "prompt": "情",
+    "target": "",
+    "answers": [
+      "りっしんべん",
+      "心",
+      "忄"
+    ],
+    "explanation": "心に関係する部首。",
+    "instruction": "部首名を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "radical-003",
+    "category": "radical",
+    "difficulty": "basic",
+    "prompt": "銅",
+    "target": "",
+    "answers": [
+      "かねへん",
+      "金"
+    ],
+    "explanation": "金属に関係する部首。",
+    "instruction": "部首名を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "radical-004",
+    "category": "radical",
+    "difficulty": "basic",
+    "prompt": "枝",
+    "target": "",
+    "answers": [
+      "きへん",
+      "木"
+    ],
+    "explanation": "木に関係する部首。",
+    "instruction": "部首名を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "radical-005",
+    "category": "radical",
+    "difficulty": "basic",
+    "prompt": "晴",
+    "target": "",
+    "answers": [
+      "ひへん",
+      "日"
+    ],
+    "explanation": "日に関係する部首。",
+    "instruction": "部首名を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "radical-006",
+    "category": "radical",
+    "difficulty": "basic",
+    "prompt": "語",
+    "target": "",
+    "answers": [
+      "ごんべん",
+      "言"
+    ],
+    "explanation": "言葉に関係する部首。",
+    "instruction": "部首名を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "radical-007",
+    "category": "radical",
+    "difficulty": "basic",
+    "prompt": "紅",
+    "target": "",
+    "answers": [
+      "いとへん",
+      "糸"
+    ],
+    "explanation": "糸に関係する部首。",
+    "instruction": "部首名を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "radical-008",
+    "category": "radical",
+    "difficulty": "standard",
+    "prompt": "猫",
+    "target": "",
+    "answers": [
+      "けものへん",
+      "犬",
+      "犭"
+    ],
+    "explanation": "獣に関係する部首。",
+    "instruction": "部首名を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "radical-009",
+    "category": "radical",
+    "difficulty": "standard",
+    "prompt": "航",
+    "target": "",
+    "answers": [
+      "ふねへん",
+      "舟"
+    ],
+    "explanation": "舟に関係する部首。",
+    "instruction": "部首名を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "radical-010",
+    "category": "radical",
+    "difficulty": "standard",
+    "prompt": "鈴",
+    "target": "",
+    "answers": [
+      "かねへん",
+      "金"
+    ],
+    "explanation": "金属に関係する部首。",
+    "instruction": "部首名を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "radical-011",
+    "category": "radical",
+    "difficulty": "standard",
+    "prompt": "眠",
+    "target": "",
+    "answers": [
+      "めへん",
+      "目"
+    ],
+    "explanation": "目に関係する部首。",
+    "instruction": "部首名を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "radical-012",
+    "category": "radical",
+    "difficulty": "standard",
+    "prompt": "砂",
+    "target": "",
+    "answers": [
+      "いしへん",
+      "石"
+    ],
+    "explanation": "石に関係する部首。",
+    "instruction": "部首名を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "radical-013",
+    "category": "radical",
+    "difficulty": "standard",
+    "prompt": "畑",
+    "target": "",
+    "answers": [
+      "ひへん",
+      "火"
+    ],
+    "explanation": "火に関係する部首。「日」ではない。",
+    "instruction": "部首名を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "radical-014",
+    "category": "radical",
+    "difficulty": "standard",
+    "prompt": "補",
+    "target": "",
+    "answers": [
+      "ころもへん",
+      "衣",
+      "衤"
+    ],
+    "explanation": "衣服に関係する部首。",
+    "instruction": "部首名を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "radical-015",
+    "category": "radical",
+    "difficulty": "advanced",
+    "prompt": "神",
+    "target": "",
+    "answers": [
+      "しめすへん",
+      "示",
+      "礻"
+    ],
+    "explanation": "祭りや神に関係する部首。",
+    "instruction": "部首名を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "radical-016",
+    "category": "radical",
+    "difficulty": "advanced",
+    "prompt": "飯",
+    "target": "",
+    "answers": [
+      "しょくへん",
+      "食"
+    ],
+    "explanation": "食べ物に関係する部首。",
+    "instruction": "部首名を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "radical-017",
+    "category": "radical",
+    "difficulty": "advanced",
+    "prompt": "打",
+    "target": "",
+    "answers": [
+      "てへん",
+      "手",
+      "扌"
+    ],
+    "explanation": "手の動作に関係する部首。",
+    "instruction": "部首名を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "radical-018",
+    "category": "radical",
+    "difficulty": "advanced",
+    "prompt": "財",
+    "target": "",
+    "answers": [
+      "かいへん",
+      "貝"
+    ],
+    "explanation": "昔、貝が貨幣として使われた。",
+    "instruction": "部首名を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "radical-019",
+    "category": "radical",
+    "difficulty": "advanced",
+    "prompt": "路",
+    "target": "",
+    "answers": [
+      "あしへん",
+      "足"
+    ],
+    "explanation": "足に関係する部首。",
+    "instruction": "部首名を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "radical-020",
+    "category": "radical",
+    "difficulty": "advanced",
+    "prompt": "鉄",
+    "target": "",
+    "answers": [
+      "かねへん",
+      "金"
+    ],
+    "explanation": "金属に関係する部首。",
+    "instruction": "部首名を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "idiom-001",
+    "category": "idiom",
+    "difficulty": "basic",
+    "prompt": "一石□□：一つの行動で二つの利益",
+    "target": "",
+    "answers": [
+      "二鳥"
+    ],
+    "explanation": "石一つで二羽の鳥を得るたとえ。",
+    "instruction": "□に入る漢字を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "idiom-002",
+    "category": "idiom",
+    "difficulty": "basic",
+    "prompt": "□□一転：気持ちをすっかり改める",
+    "target": "",
+    "answers": [
+      "心機"
+    ],
+    "explanation": "あることをきっかけに心持ちが変わること。",
+    "instruction": "□に入る漢字を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "idiom-003",
+    "category": "idiom",
+    "difficulty": "basic",
+    "prompt": "自業□□：自分の行いの結果を受ける",
+    "target": "",
+    "answers": [
+      "自得"
+    ],
+    "explanation": "自分の行いが自分に返ってくること。",
+    "instruction": "□に入る漢字を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "idiom-004",
+    "category": "idiom",
+    "difficulty": "basic",
+    "prompt": "□苦八苦：ひどく苦労する",
+    "target": "",
+    "answers": [
+      "四"
+    ],
+    "explanation": "四苦八苦。四つの苦しみと八つの苦しみに由来する。",
+    "instruction": "□に入る漢字を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "idiom-005",
+    "category": "idiom",
+    "difficulty": "basic",
+    "prompt": "無我□□：一つのことに心を奪われる",
+    "target": "",
+    "answers": [
+      "夢中"
+    ],
+    "explanation": "我を忘れて熱中すること。",
+    "instruction": "□に入る漢字を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "idiom-006",
+    "category": "idiom",
+    "difficulty": "basic",
+    "prompt": "□□同音：多くの人が同じことを言う",
+    "target": "",
+    "answers": [
+      "異口"
+    ],
+    "explanation": "異なる口から同じ声が出ること。",
+    "instruction": "□に入る漢字を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "idiom-007",
+    "category": "idiom",
+    "difficulty": "basic",
+    "prompt": "臨機□□：状況に合わせて対応する",
+    "target": "",
+    "answers": [
+      "応変"
+    ],
+    "explanation": "その場に応じてやり方を変えること。",
+    "instruction": "□に入る漢字を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "idiom-008",
+    "category": "idiom",
+    "difficulty": "standard",
+    "prompt": "□□一体：心を一つにして協力する",
+    "target": "",
+    "answers": [
+      "三位"
+    ],
+    "explanation": "三つのものが一つになること。",
+    "instruction": "□に入る漢字を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "idiom-009",
+    "category": "idiom",
+    "difficulty": "standard",
+    "prompt": "半信□□：本当かどうか迷う",
+    "target": "",
+    "answers": [
+      "半疑"
+    ],
+    "explanation": "半ば信じ、半ば疑うこと。",
+    "instruction": "□に入る漢字を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "idiom-010",
+    "category": "idiom",
+    "difficulty": "standard",
+    "prompt": "□□転倒：大切なことと小さなことを取り違える",
+    "target": "",
+    "answers": [
+      "本末"
+    ],
+    "explanation": "根本と末の順序が逆になること。",
+    "instruction": "□に入る漢字を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "idiom-011",
+    "category": "idiom",
+    "difficulty": "standard",
+    "prompt": "試行□□：試みと失敗を重ねる",
+    "target": "",
+    "answers": [
+      "錯誤"
+    ],
+    "explanation": "失敗を通して解決方法を探ること。",
+    "instruction": "□に入る漢字を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "idiom-012",
+    "category": "idiom",
+    "difficulty": "standard",
+    "prompt": "□□無二：二つとないこと",
+    "target": "",
+    "answers": [
+      "唯一"
+    ],
+    "explanation": "ただ一つしかないこと。",
+    "instruction": "□に入る漢字を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "idiom-013",
+    "category": "idiom",
+    "difficulty": "standard",
+    "prompt": "温故□□：昔のことを学び、新しい知識を得る",
+    "target": "",
+    "answers": [
+      "知新"
+    ],
+    "explanation": "古きをたずねて新しきを知る。",
+    "instruction": "□に入る漢字を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "idiom-014",
+    "category": "idiom",
+    "difficulty": "standard",
+    "prompt": "□□一夕：わずかな期間",
+    "target": "",
+    "answers": [
+      "一朝"
+    ],
+    "explanation": "一朝一夕。ひと朝、ひと晩の意味。",
+    "instruction": "□に入る漢字を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "idiom-015",
+    "category": "idiom",
+    "difficulty": "advanced",
+    "prompt": "因果□□：行いに応じた結果を受ける",
+    "target": "",
+    "answers": [
+      "応報"
+    ],
+    "explanation": "原因に対応する結果が返ること。",
+    "instruction": "□に入る漢字を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "idiom-016",
+    "category": "idiom",
+    "difficulty": "advanced",
+    "prompt": "□□直入：前置きなく本題に入る",
+    "target": "",
+    "answers": [
+      "単刀"
+    ],
+    "explanation": "遠回しにせず要点を述べること。",
+    "instruction": "□に入る漢字を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "idiom-017",
+    "category": "idiom",
+    "difficulty": "advanced",
+    "prompt": "大器□□：大人物は遅れて才能を現す",
+    "target": "",
+    "answers": [
+      "晩成"
+    ],
+    "explanation": "大きな器は完成に時間がかかるたとえ。",
+    "instruction": "□に入る漢字を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "idiom-018",
+    "category": "idiom",
+    "difficulty": "advanced",
+    "prompt": "□□五入：概数を求める方法",
+    "target": "",
+    "answers": [
+      "四捨"
+    ],
+    "explanation": "四以下を切り捨て、五以上を切り上げる。",
+    "instruction": "□に入る漢字を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "idiom-019",
+    "category": "idiom",
+    "difficulty": "advanced",
+    "prompt": "起承□□：文章の組み立て",
+    "target": "",
+    "answers": [
+      "転結"
+    ],
+    "explanation": "起・承・転・結の四段階。",
+    "instruction": "□に入る漢字を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "idiom-020",
+    "category": "idiom",
+    "difficulty": "advanced",
+    "prompt": "□□不乱：一つのことに集中する",
+    "target": "",
+    "answers": [
+      "一心"
+    ],
+    "explanation": "心を乱さず集中すること。",
+    "instruction": "□に入る漢字を答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "opposite-001",
+    "category": "opposite",
+    "difficulty": "basic",
+    "prompt": "「増加」の対義語",
+    "target": "",
+    "answers": [
+      "減少"
+    ],
+    "explanation": "増えることと減ること。",
+    "instruction": "選択肢から、当てはまる言葉を選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "客観",
+      "減少",
+      "抽象",
+      "否定"
+    ]
+  },
+  {
+    "id": "opposite-002",
+    "category": "opposite",
+    "difficulty": "basic",
+    "prompt": "「成功」の対義語",
+    "target": "",
+    "answers": [
+      "失敗"
+    ],
+    "explanation": "うまくいくことと、うまくいかないこと。",
+    "instruction": "選択肢から、当てはまる言葉を選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "失敗",
+      "縮小",
+      "抽象",
+      "否定"
+    ]
+  },
+  {
+    "id": "opposite-003",
+    "category": "opposite",
+    "difficulty": "basic",
+    "prompt": "「供給」の対義語",
+    "target": "",
+    "answers": [
+      "需要"
+    ],
+    "explanation": "提供する側と必要とする側。",
+    "instruction": "選択肢から、当てはまる言葉を選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "需要",
+      "縮小",
+      "損失",
+      "否定"
+    ]
+  },
+  {
+    "id": "opposite-004",
+    "category": "opposite",
+    "difficulty": "basic",
+    "prompt": "「権利」の対義語",
+    "target": "",
+    "answers": [
+      "義務"
+    ],
+    "explanation": "行使できる資格と果たすべき務め。",
+    "instruction": "選択肢から、当てはまる言葉を選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "義務",
+      "結果",
+      "縮小",
+      "損失"
+    ]
+  },
+  {
+    "id": "opposite-005",
+    "category": "opposite",
+    "difficulty": "basic",
+    "prompt": "「主観」の対義語",
+    "target": "",
+    "answers": [
+      "客観"
+    ],
+    "explanation": "自分の立場と、個人を離れた立場。",
+    "instruction": "選択肢から、当てはまる言葉を選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "永久",
+      "客観",
+      "結果",
+      "損失"
+    ]
+  },
+  {
+    "id": "opposite-006",
+    "category": "opposite",
+    "difficulty": "basic",
+    "prompt": "「具体」の対義語",
+    "target": "",
+    "answers": [
+      "抽象"
+    ],
+    "explanation": "個別の形と共通する性質。",
+    "instruction": "選択肢から、当てはまる言葉を選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "永久",
+      "結果",
+      "向上",
+      "抽象"
+    ]
+  },
+  {
+    "id": "opposite-007",
+    "category": "opposite",
+    "difficulty": "basic",
+    "prompt": "「肯定」の対義語",
+    "target": "",
+    "answers": [
+      "否定"
+    ],
+    "explanation": "認めることと打ち消すこと。",
+    "instruction": "選択肢から、当てはまる言葉を選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "永久",
+      "簡単",
+      "向上",
+      "否定"
+    ]
+  },
+  {
+    "id": "opposite-008",
+    "category": "opposite",
+    "difficulty": "standard",
+    "prompt": "「拡大」の対義語",
+    "target": "",
+    "answers": [
+      "縮小"
+    ],
+    "explanation": "大きくすることと小さくすること。",
+    "instruction": "選択肢から、当てはまる言葉を選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "簡単",
+      "向上",
+      "縮小",
+      "豊か"
+    ]
+  },
+  {
+    "id": "opposite-009",
+    "category": "opposite",
+    "difficulty": "standard",
+    "prompt": "「利益」の対義語",
+    "target": "",
+    "answers": [
+      "損失"
+    ],
+    "explanation": "得ることと失うこと。",
+    "instruction": "選択肢から、当てはまる言葉を選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "簡単",
+      "損失",
+      "豊か",
+      "了解"
+    ]
+  },
+  {
+    "id": "opposite-010",
+    "category": "opposite",
+    "difficulty": "standard",
+    "prompt": "「原因」の対義語",
+    "target": "",
+    "answers": [
+      "結果"
+    ],
+    "explanation": "物事を起こすもとと、生じたこと。",
+    "instruction": "選択肢から、当てはまる言葉を選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "決意",
+      "結果",
+      "豊か",
+      "了解"
+    ]
+  },
+  {
+    "id": "opposite-011",
+    "category": "opposite",
+    "difficulty": "standard",
+    "prompt": "「永遠」の類義語",
+    "target": "",
+    "answers": [
+      "永久"
+    ],
+    "explanation": "どちらも限りなく続くこと。",
+    "instruction": "選択肢から、当てはまる言葉を選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "永久",
+      "決意",
+      "注意",
+      "了解"
+    ]
+  },
+  {
+    "id": "opposite-012",
+    "category": "opposite",
+    "difficulty": "standard",
+    "prompt": "「進歩」の類義語",
+    "target": "",
+    "answers": [
+      "向上"
+    ],
+    "explanation": "よりよくなること。",
+    "instruction": "選択肢から、当てはまる言葉を選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "減少",
+      "向上",
+      "失敗",
+      "需要"
+    ]
+  },
+  {
+    "id": "opposite-013",
+    "category": "opposite",
+    "difficulty": "standard",
+    "prompt": "「容易」の類義語",
+    "target": "",
+    "answers": [
+      "簡単"
+    ],
+    "explanation": "難しくないこと。",
+    "instruction": "選択肢から、当てはまる言葉を選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "簡単",
+      "義務",
+      "失敗",
+      "需要"
+    ]
+  },
+  {
+    "id": "opposite-014",
+    "category": "opposite",
+    "difficulty": "standard",
+    "prompt": "「豊富」の類義語",
+    "target": "",
+    "answers": [
+      "豊か"
+    ],
+    "explanation": "十分に多いこと。",
+    "instruction": "選択肢から、当てはまる言葉を選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "義務",
+      "客観",
+      "需要",
+      "豊か"
+    ]
+  },
+  {
+    "id": "opposite-015",
+    "category": "opposite",
+    "difficulty": "advanced",
+    "prompt": "「承知」の類義語",
+    "target": "",
+    "answers": [
+      "了解"
+    ],
+    "explanation": "内容を理解して受け入れること。",
+    "instruction": "選択肢から、当てはまる言葉を選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "義務",
+      "客観",
+      "抽象",
+      "了解"
+    ]
+  },
+  {
+    "id": "opposite-016",
+    "category": "opposite",
+    "difficulty": "advanced",
+    "prompt": "「決心」の類義語",
+    "target": "",
+    "answers": [
+      "決意"
+    ],
+    "explanation": "心を決めること。",
+    "instruction": "選択肢から、当てはまる言葉を選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "客観",
+      "決意",
+      "抽象",
+      "否定"
+    ]
+  },
+  {
+    "id": "opposite-017",
+    "category": "opposite",
+    "difficulty": "advanced",
+    "prompt": "「用心」の類義語",
+    "target": "",
+    "answers": [
+      "注意"
+    ],
+    "explanation": "気をつけること。",
+    "instruction": "選択肢から、当てはまる言葉を選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "縮小",
+      "抽象",
+      "注意",
+      "否定"
+    ]
+  },
+  {
+    "id": "opposite-018",
+    "category": "opposite",
+    "difficulty": "advanced",
+    "prompt": "「平等」の対義語",
+    "target": "",
+    "answers": [
+      "差別"
+    ],
+    "explanation": "等しく扱うことと差をつけて扱うこと。",
+    "instruction": "選択肢から、当てはまる言葉を選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "差別",
+      "縮小",
+      "損失",
+      "否定"
+    ]
+  },
+  {
+    "id": "opposite-019",
+    "category": "opposite",
+    "difficulty": "advanced",
+    "prompt": "「積極」の対義語",
+    "target": "",
+    "answers": [
+      "消極"
+    ],
+    "explanation": "進んで行うことと進んで行わないこと。",
+    "instruction": "選択肢から、当てはまる言葉を選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "結果",
+      "縮小",
+      "消極",
+      "損失"
+    ]
+  },
+  {
+    "id": "opposite-020",
+    "category": "opposite",
+    "difficulty": "advanced",
+    "prompt": "「冷静」の対義語",
+    "target": "",
+    "answers": [
+      "興奮"
+    ],
+    "explanation": "落ち着いていることと気持ちが高ぶること。",
+    "instruction": "選択肢から、当てはまる言葉を選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "永久",
+      "興奮",
+      "結果",
+      "損失"
+    ]
+  },
+  {
+    "id": "homophone-001",
+    "category": "homophone",
+    "difficulty": "basic",
+    "prompt": "電車の運賃をセイサンする",
+    "target": "",
+    "answers": [
+      "精算"
+    ],
+    "explanation": "金額を細かく計算するのは「精算」。",
+    "instruction": "カタカナの部分を漢字に直しましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "homophone-002",
+    "category": "homophone",
+    "difficulty": "basic",
+    "prompt": "過去の関係をセイサンする",
+    "target": "",
+    "answers": [
+      "清算"
+    ],
+    "explanation": "関係を整理するのは「清算」。",
+    "instruction": "カタカナの部分を漢字に直しましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "homophone-003",
+    "category": "homophone",
+    "difficulty": "basic",
+    "prompt": "商品のセイサンを増やす",
+    "target": "",
+    "answers": [
+      "生産"
+    ],
+    "explanation": "物を作り出すのは「生産」。",
+    "instruction": "カタカナの部分を漢字に直しましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "homophone-004",
+    "category": "homophone",
+    "difficulty": "basic",
+    "prompt": "橋をカける",
+    "target": "",
+    "answers": [
+      "架"
+    ],
+    "explanation": "橋などを渡すのは「架ける」。",
+    "instruction": "カタカナの部分を漢字に直しましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "homophone-005",
+    "category": "homophone",
+    "difficulty": "basic",
+    "prompt": "壁に絵をカける",
+    "target": "",
+    "answers": [
+      "掛"
+    ],
+    "explanation": "物をつり下げるのは「掛ける」。",
+    "instruction": "カタカナの部分を漢字に直しましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "homophone-006",
+    "category": "homophone",
+    "difficulty": "basic",
+    "prompt": "油で野菜をアげる",
+    "target": "",
+    "answers": [
+      "揚"
+    ],
+    "explanation": "油で調理するのは「揚げる」。",
+    "instruction": "カタカナの部分を漢字に直しましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "homophone-007",
+    "category": "homophone",
+    "difficulty": "basic",
+    "prompt": "例をアげて説明する",
+    "target": "",
+    "answers": [
+      "挙"
+    ],
+    "explanation": "例を示すのは「挙げる」。",
+    "instruction": "カタカナの部分を漢字に直しましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "homophone-008",
+    "category": "homophone",
+    "difficulty": "standard",
+    "prompt": "温度をアげる",
+    "target": "",
+    "answers": [
+      "上"
+    ],
+    "explanation": "高くするのは「上げる」。",
+    "instruction": "カタカナの部分を漢字に直しましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "homophone-009",
+    "category": "homophone",
+    "difficulty": "standard",
+    "prompt": "会費をオサめる",
+    "target": "",
+    "answers": [
+      "納"
+    ],
+    "explanation": "金品を受け手に渡すのは「納める」。",
+    "instruction": "カタカナの部分を漢字に直しましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "homophone-010",
+    "category": "homophone",
+    "difficulty": "standard",
+    "prompt": "国をオサめる",
+    "target": "",
+    "answers": [
+      "治"
+    ],
+    "explanation": "統治するのは「治める」。",
+    "instruction": "カタカナの部分を漢字に直しましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "homophone-011",
+    "category": "homophone",
+    "difficulty": "standard",
+    "prompt": "学問をオサめる",
+    "target": "",
+    "answers": [
+      "修"
+    ],
+    "explanation": "学んで身につけるのは「修める」。",
+    "instruction": "カタカナの部分を漢字に直しましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "homophone-012",
+    "category": "homophone",
+    "difficulty": "standard",
+    "prompt": "勝利をオサめる",
+    "target": "",
+    "answers": [
+      "収"
+    ],
+    "explanation": "成果を得るのは「収める」。",
+    "instruction": "カタカナの部分を漢字に直しましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "homophone-013",
+    "category": "homophone",
+    "difficulty": "standard",
+    "prompt": "体をキタえる",
+    "target": "",
+    "answers": [
+      "鍛"
+    ],
+    "explanation": "体や技能を強くするのは「鍛える」。",
+    "instruction": "カタカナの部分を漢字に直しましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "homophone-014",
+    "category": "homophone",
+    "difficulty": "standard",
+    "prompt": "図書館の本をカりる",
+    "target": "",
+    "answers": [
+      "借"
+    ],
+    "explanation": "返す約束で使うのは「借りる」。",
+    "instruction": "カタカナの部分を漢字に直しましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "homophone-015",
+    "category": "homophone",
+    "difficulty": "advanced",
+    "prompt": "草をカる",
+    "target": "",
+    "answers": [
+      "刈"
+    ],
+    "explanation": "草などを切り取るのは「刈る」。",
+    "instruction": "カタカナの部分を漢字に直しましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "homophone-016",
+    "category": "homophone",
+    "difficulty": "advanced",
+    "prompt": "道で友人にアう",
+    "target": "",
+    "answers": [
+      "会"
+    ],
+    "explanation": "人と顔を合わせるのは「会う」。",
+    "instruction": "カタカナの部分を漢字に直しましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "homophone-017",
+    "category": "homophone",
+    "difficulty": "advanced",
+    "prompt": "寸法がアう",
+    "target": "",
+    "answers": [
+      "合"
+    ],
+    "explanation": "一致するのは「合う」。",
+    "instruction": "カタカナの部分を漢字に直しましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "homophone-018",
+    "category": "homophone",
+    "difficulty": "advanced",
+    "prompt": "交通事故にアう",
+    "target": "",
+    "answers": [
+      "遭"
+    ],
+    "explanation": "好ましくないことに出くわすのは「遭う」。",
+    "instruction": "カタカナの部分を漢字に直しましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "homophone-019",
+    "category": "homophone",
+    "difficulty": "advanced",
+    "prompt": "時間をハカる",
+    "target": "",
+    "answers": [
+      "計"
+    ],
+    "explanation": "時間や計画には「計る」。",
+    "instruction": "カタカナの部分を漢字に直しましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "homophone-020",
+    "category": "homophone",
+    "difficulty": "advanced",
+    "prompt": "体重をハカる",
+    "target": "",
+    "answers": [
+      "量"
+    ],
+    "explanation": "重さや量には「量る」。",
+    "instruction": "カタカナの部分を漢字に直しましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "structure-001",
+    "category": "structure",
+    "difficulty": "basic",
+    "prompt": "寒暖",
+    "target": "",
+    "answers": [
+      "反対の意味"
+    ],
+    "explanation": "寒い・暖かいは反対。",
+    "instruction": "二字熟語の組み立てを選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "反対の意味",
+      "似た意味",
+      "上が下を修飾",
+      "下が上の目的語・補語"
+    ]
+  },
+  {
+    "id": "structure-002",
+    "category": "structure",
+    "difficulty": "basic",
+    "prompt": "大小",
+    "target": "",
+    "answers": [
+      "反対の意味"
+    ],
+    "explanation": "大きい・小さいは反対。",
+    "instruction": "二字熟語の組み立てを選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "反対の意味",
+      "似た意味",
+      "上が下を修飾",
+      "下が上の目的語・補語"
+    ]
+  },
+  {
+    "id": "structure-003",
+    "category": "structure",
+    "difficulty": "basic",
+    "prompt": "上下",
+    "target": "",
+    "answers": [
+      "反対の意味"
+    ],
+    "explanation": "上・下は反対。",
+    "instruction": "二字熟語の組み立てを選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "反対の意味",
+      "似た意味",
+      "上が下を修飾",
+      "下が上の目的語・補語"
+    ]
+  },
+  {
+    "id": "structure-004",
+    "category": "structure",
+    "difficulty": "basic",
+    "prompt": "善悪",
+    "target": "",
+    "answers": [
+      "反対の意味"
+    ],
+    "explanation": "善い・悪いは反対。",
+    "instruction": "二字熟語の組み立てを選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "反対の意味",
+      "似た意味",
+      "上が下を修飾",
+      "下が上の目的語・補語"
+    ]
+  },
+  {
+    "id": "structure-005",
+    "category": "structure",
+    "difficulty": "basic",
+    "prompt": "強弱",
+    "target": "",
+    "answers": [
+      "反対の意味"
+    ],
+    "explanation": "強い・弱いは反対。",
+    "instruction": "二字熟語の組み立てを選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "反対の意味",
+      "似た意味",
+      "上が下を修飾",
+      "下が上の目的語・補語"
+    ]
+  },
+  {
+    "id": "structure-006",
+    "category": "structure",
+    "difficulty": "basic",
+    "prompt": "道路",
+    "target": "",
+    "answers": [
+      "似た意味"
+    ],
+    "explanation": "道・路はいずれも道。",
+    "instruction": "二字熟語の組み立てを選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "反対の意味",
+      "似た意味",
+      "上が下を修飾",
+      "下が上の目的語・補語"
+    ]
+  },
+  {
+    "id": "structure-007",
+    "category": "structure",
+    "difficulty": "basic",
+    "prompt": "岩石",
+    "target": "",
+    "answers": [
+      "似た意味"
+    ],
+    "explanation": "岩・石は似た意味。",
+    "instruction": "二字熟語の組み立てを選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "反対の意味",
+      "似た意味",
+      "上が下を修飾",
+      "下が上の目的語・補語"
+    ]
+  },
+  {
+    "id": "structure-008",
+    "category": "structure",
+    "difficulty": "standard",
+    "prompt": "河川",
+    "target": "",
+    "answers": [
+      "似た意味"
+    ],
+    "explanation": "河・川は似た意味。",
+    "instruction": "二字熟語の組み立てを選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "反対の意味",
+      "似た意味",
+      "上が下を修飾",
+      "下が上の目的語・補語"
+    ]
+  },
+  {
+    "id": "structure-009",
+    "category": "structure",
+    "difficulty": "standard",
+    "prompt": "温暖",
+    "target": "",
+    "answers": [
+      "似た意味"
+    ],
+    "explanation": "温・暖はいずれも暖かい。",
+    "instruction": "二字熟語の組み立てを選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "反対の意味",
+      "似た意味",
+      "上が下を修飾",
+      "下が上の目的語・補語"
+    ]
+  },
+  {
+    "id": "structure-010",
+    "category": "structure",
+    "difficulty": "standard",
+    "prompt": "永久",
+    "target": "",
+    "answers": [
+      "似た意味"
+    ],
+    "explanation": "永・久はいずれも長く続く。",
+    "instruction": "二字熟語の組み立てを選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "反対の意味",
+      "似た意味",
+      "上が下を修飾",
+      "下が上の目的語・補語"
+    ]
+  },
+  {
+    "id": "structure-011",
+    "category": "structure",
+    "difficulty": "standard",
+    "prompt": "青空",
+    "target": "",
+    "answers": [
+      "上が下を修飾"
+    ],
+    "explanation": "青い空。「青」が「空」を修飾する。",
+    "instruction": "二字熟語の組み立てを選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "反対の意味",
+      "似た意味",
+      "上が下を修飾",
+      "下が上の目的語・補語"
+    ]
+  },
+  {
+    "id": "structure-012",
+    "category": "structure",
+    "difficulty": "standard",
+    "prompt": "急流",
+    "target": "",
+    "answers": [
+      "上が下を修飾"
+    ],
+    "explanation": "急な流れ。「急」が「流」を修飾する。",
+    "instruction": "二字熟語の組み立てを選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "反対の意味",
+      "似た意味",
+      "上が下を修飾",
+      "下が上の目的語・補語"
+    ]
+  },
+  {
+    "id": "structure-013",
+    "category": "structure",
+    "difficulty": "standard",
+    "prompt": "高山",
+    "target": "",
+    "answers": [
+      "上が下を修飾"
+    ],
+    "explanation": "高い山。「高」が「山」を修飾する。",
+    "instruction": "二字熟語の組み立てを選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "反対の意味",
+      "似た意味",
+      "上が下を修飾",
+      "下が上の目的語・補語"
+    ]
+  },
+  {
+    "id": "structure-014",
+    "category": "structure",
+    "difficulty": "standard",
+    "prompt": "美人",
+    "target": "",
+    "answers": [
+      "上が下を修飾"
+    ],
+    "explanation": "美しい人。「美」が「人」を修飾する。",
+    "instruction": "二字熟語の組み立てを選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "反対の意味",
+      "似た意味",
+      "上が下を修飾",
+      "下が上の目的語・補語"
+    ]
+  },
+  {
+    "id": "structure-015",
+    "category": "structure",
+    "difficulty": "advanced",
+    "prompt": "悪天",
+    "target": "",
+    "answers": [
+      "上が下を修飾"
+    ],
+    "explanation": "悪い天気。「悪」が「天」を修飾する。",
+    "instruction": "二字熟語の組み立てを選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "反対の意味",
+      "似た意味",
+      "上が下を修飾",
+      "下が上の目的語・補語"
+    ]
+  },
+  {
+    "id": "structure-016",
+    "category": "structure",
+    "difficulty": "advanced",
+    "prompt": "読書",
+    "target": "",
+    "answers": [
+      "下が上の目的語・補語"
+    ],
+    "explanation": "書を読む。「書」が「読」の目的語。",
+    "instruction": "二字熟語の組み立てを選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "反対の意味",
+      "似た意味",
+      "上が下を修飾",
+      "下が上の目的語・補語"
+    ]
+  },
+  {
+    "id": "structure-017",
+    "category": "structure",
+    "difficulty": "advanced",
+    "prompt": "登山",
+    "target": "",
+    "answers": [
+      "下が上の目的語・補語"
+    ],
+    "explanation": "山に登る。「山」が「登」の補語。",
+    "instruction": "二字熟語の組み立てを選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "反対の意味",
+      "似た意味",
+      "上が下を修飾",
+      "下が上の目的語・補語"
+    ]
+  },
+  {
+    "id": "structure-018",
+    "category": "structure",
+    "difficulty": "advanced",
+    "prompt": "帰国",
+    "target": "",
+    "answers": [
+      "下が上の目的語・補語"
+    ],
+    "explanation": "国に帰る。「国」が「帰」の補語。",
+    "instruction": "二字熟語の組み立てを選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "反対の意味",
+      "似た意味",
+      "上が下を修飾",
+      "下が上の目的語・補語"
+    ]
+  },
+  {
+    "id": "structure-019",
+    "category": "structure",
+    "difficulty": "advanced",
+    "prompt": "着席",
+    "target": "",
+    "answers": [
+      "下が上の目的語・補語"
+    ],
+    "explanation": "席に着く。「席」が「着」の補語。",
+    "instruction": "二字熟語の組み立てを選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "反対の意味",
+      "似た意味",
+      "上が下を修飾",
+      "下が上の目的語・補語"
+    ]
+  },
+  {
+    "id": "structure-020",
+    "category": "structure",
+    "difficulty": "advanced",
+    "prompt": "消火",
+    "target": "",
+    "answers": [
+      "下が上の目的語・補語"
+    ],
+    "explanation": "火を消す。「火」が「消」の目的語。",
+    "instruction": "二字熟語の組み立てを選びましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）",
+    "choices": [
+      "反対の意味",
+      "似た意味",
+      "上が下を修飾",
+      "下が上の目的語・補語"
+    ]
+  },
+  {
+    "id": "okuri-001",
+    "category": "okuri",
+    "difficulty": "basic",
+    "prompt": "うけたまわる（承）",
+    "target": "",
+    "answers": [
+      "承る"
+    ],
+    "explanation": "「承」に「る」を送る。",
+    "instruction": "指定の漢字を使い、送り仮名を含めて書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "okuri-002",
+    "category": "okuri",
+    "difficulty": "basic",
+    "prompt": "こころよい（快）",
+    "target": "",
+    "answers": [
+      "快い"
+    ],
+    "explanation": "「快」に「い」を送る。",
+    "instruction": "指定の漢字を使い、送り仮名を含めて書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "okuri-003",
+    "category": "okuri",
+    "difficulty": "basic",
+    "prompt": "いちじるしい（著）",
+    "target": "",
+    "answers": [
+      "著しい"
+    ],
+    "explanation": "「著」に「しい」を送る。",
+    "instruction": "指定の漢字を使い、送り仮名を含めて書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "okuri-004",
+    "category": "okuri",
+    "difficulty": "basic",
+    "prompt": "あやまる（誤）",
+    "target": "",
+    "answers": [
+      "誤る"
+    ],
+    "explanation": "「誤」に「る」を送る。",
+    "instruction": "指定の漢字を使い、送り仮名を含めて書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "okuri-005",
+    "category": "okuri",
+    "difficulty": "basic",
+    "prompt": "おぎなう（補）",
+    "target": "",
+    "answers": [
+      "補う"
+    ],
+    "explanation": "「補」に「う」を送る。",
+    "instruction": "指定の漢字を使い、送り仮名を含めて書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "okuri-006",
+    "category": "okuri",
+    "difficulty": "basic",
+    "prompt": "たしかめる（確）",
+    "target": "",
+    "answers": [
+      "確かめる"
+    ],
+    "explanation": "「確」に「かめる」を送る。",
+    "instruction": "指定の漢字を使い、送り仮名を含めて書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "okuri-007",
+    "category": "okuri",
+    "difficulty": "basic",
+    "prompt": "あらわす（表）：気持ちを言葉にする",
+    "target": "",
+    "answers": [
+      "表す"
+    ],
+    "explanation": "「表」に「す」を送る。",
+    "instruction": "指定の漢字を使い、送り仮名を含めて書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "okuri-008",
+    "category": "okuri",
+    "difficulty": "standard",
+    "prompt": "あらわれる（現）：姿を見せる",
+    "target": "",
+    "answers": [
+      "現れる"
+    ],
+    "explanation": "「現」に「れる」を送る。",
+    "instruction": "指定の漢字を使い、送り仮名を含めて書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "okuri-009",
+    "category": "okuri",
+    "difficulty": "standard",
+    "prompt": "うながす（促）",
+    "target": "",
+    "answers": [
+      "促す"
+    ],
+    "explanation": "「促」に「す」を送る。",
+    "instruction": "指定の漢字を使い、送り仮名を含めて書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "okuri-010",
+    "category": "okuri",
+    "difficulty": "standard",
+    "prompt": "みとめる（認）",
+    "target": "",
+    "answers": [
+      "認める"
+    ],
+    "explanation": "「認」に「める」を送る。",
+    "instruction": "指定の漢字を使い、送り仮名を含めて書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "okuri-011",
+    "category": "okuri",
+    "difficulty": "standard",
+    "prompt": "いさぎよい（潔）",
+    "target": "",
+    "answers": [
+      "潔い"
+    ],
+    "explanation": "「潔」に「い」を送る。",
+    "instruction": "指定の漢字を使い、送り仮名を含めて書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "okuri-012",
+    "category": "okuri",
+    "difficulty": "standard",
+    "prompt": "おだやか（穏）",
+    "target": "",
+    "answers": [
+      "穏やか"
+    ],
+    "explanation": "「穏」に「やか」を送る。",
+    "instruction": "指定の漢字を使い、送り仮名を含めて書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "okuri-013",
+    "category": "okuri",
+    "difficulty": "standard",
+    "prompt": "すこやか（健）",
+    "target": "",
+    "answers": [
+      "健やか"
+    ],
+    "explanation": "「健」に「やか」を送る。",
+    "instruction": "指定の漢字を使い、送り仮名を含めて書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "okuri-014",
+    "category": "okuri",
+    "difficulty": "standard",
+    "prompt": "ゆたか（豊）",
+    "target": "",
+    "answers": [
+      "豊か"
+    ],
+    "explanation": "「豊」に「か」を送る。",
+    "instruction": "指定の漢字を使い、送り仮名を含めて書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "okuri-015",
+    "category": "okuri",
+    "difficulty": "advanced",
+    "prompt": "こころみる（試）",
+    "target": "",
+    "answers": [
+      "試みる"
+    ],
+    "explanation": "「試」に「みる」を送る。",
+    "instruction": "指定の漢字を使い、送り仮名を含めて書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "okuri-016",
+    "category": "okuri",
+    "difficulty": "advanced",
+    "prompt": "くわだてる（企）",
+    "target": "",
+    "answers": [
+      "企てる"
+    ],
+    "explanation": "「企」に「てる」を送る。",
+    "instruction": "指定の漢字を使い、送り仮名を含めて書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "okuri-017",
+    "category": "okuri",
+    "difficulty": "advanced",
+    "prompt": "あずける（預）",
+    "target": "",
+    "answers": [
+      "預ける"
+    ],
+    "explanation": "「預」に「ける」を送る。",
+    "instruction": "指定の漢字を使い、送り仮名を含めて書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "okuri-018",
+    "category": "okuri",
+    "difficulty": "advanced",
+    "prompt": "たずねる（訪）：人の家へ行く",
+    "target": "",
+    "answers": [
+      "訪ねる"
+    ],
+    "explanation": "「訪」に「ねる」を送る。",
+    "instruction": "指定の漢字を使い、送り仮名を含めて書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "okuri-019",
+    "category": "okuri",
+    "difficulty": "advanced",
+    "prompt": "おとろえる（衰）",
+    "target": "",
+    "answers": [
+      "衰える"
+    ],
+    "explanation": "「衰」に「える」を送る。",
+    "instruction": "指定の漢字を使い、送り仮名を含めて書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "okuri-020",
+    "category": "okuri",
+    "difficulty": "advanced",
+    "prompt": "いとなむ（営）",
+    "target": "",
+    "answers": [
+      "営む"
+    ],
+    "explanation": "「営」に「む」を送る。",
+    "instruction": "指定の漢字を使い、送り仮名を含めて書きましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "correction-001",
+    "category": "correction",
+    "difficulty": "basic",
+    "prompt": "会場で拍主が起こる。",
+    "target": "",
+    "answers": [
+      "主→手"
+    ],
+    "explanation": "拍手は両手を打ち合わせること。",
+    "instruction": "誤りを「誤字→正字」の形で答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "correction-002",
+    "category": "correction",
+    "difficulty": "basic",
+    "prompt": "安全を確忍する。",
+    "target": "",
+    "answers": [
+      "忍→認"
+    ],
+    "explanation": "確認は確かに認めること。",
+    "instruction": "誤りを「誤字→正字」の形で答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "correction-003",
+    "category": "correction",
+    "difficulty": "basic",
+    "prompt": "友人を尊景する。",
+    "target": "",
+    "answers": [
+      "景→敬"
+    ],
+    "explanation": "尊敬は相手を敬うこと。",
+    "instruction": "誤りを「誤字→正字」の形で答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "correction-004",
+    "category": "correction",
+    "difficulty": "basic",
+    "prompt": "責任を課たす。",
+    "target": "",
+    "answers": [
+      "課→果"
+    ],
+    "explanation": "果たすは成し遂げること。",
+    "instruction": "誤りを「誤字→正字」の形で答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "correction-005",
+    "category": "correction",
+    "difficulty": "basic",
+    "prompt": "新しい記録に挑線する。",
+    "target": "",
+    "answers": [
+      "線→戦"
+    ],
+    "explanation": "挑戦は困難に挑むこと。",
+    "instruction": "誤りを「誤字→正字」の形で答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "correction-006",
+    "category": "correction",
+    "difficulty": "basic",
+    "prompt": "環境を保後する。",
+    "target": "",
+    "answers": [
+      "後→護"
+    ],
+    "explanation": "保護は守ること。",
+    "instruction": "誤りを「誤字→正字」の形で答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "correction-007",
+    "category": "correction",
+    "difficulty": "basic",
+    "prompt": "明日の予低を立てる。",
+    "target": "",
+    "answers": [
+      "低→定"
+    ],
+    "explanation": "予定は前もって定めること。",
+    "instruction": "誤りを「誤字→正字」の形で答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "correction-008",
+    "category": "correction",
+    "difficulty": "standard",
+    "prompt": "計画を実交する。",
+    "target": "",
+    "answers": [
+      "交→行"
+    ],
+    "explanation": "実行は実際に行うこと。",
+    "instruction": "誤りを「誤字→正字」の形で答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "correction-009",
+    "category": "correction",
+    "difficulty": "standard",
+    "prompt": "自信を持って発原する。",
+    "target": "",
+    "answers": [
+      "原→言"
+    ],
+    "explanation": "発言は言葉を発すること。",
+    "instruction": "誤りを「誤字→正字」の形で答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "correction-010",
+    "category": "correction",
+    "difficulty": "standard",
+    "prompt": "仕事を分但する。",
+    "target": "",
+    "answers": [
+      "但→担"
+    ],
+    "explanation": "分担は分けて担うこと。",
+    "instruction": "誤りを「誤字→正字」の形で答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "correction-011",
+    "category": "correction",
+    "difficulty": "standard",
+    "prompt": "将来に期侍する。",
+    "target": "",
+    "answers": [
+      "侍→待"
+    ],
+    "explanation": "期待は結果を待ち望むこと。",
+    "instruction": "誤りを「誤字→正字」の形で答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "correction-012",
+    "category": "correction",
+    "difficulty": "standard",
+    "prompt": "文化を継賞する。",
+    "target": "",
+    "answers": [
+      "賞→承"
+    ],
+    "explanation": "継承は受け継ぐこと。",
+    "instruction": "誤りを「誤字→正字」の形で答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "correction-013",
+    "category": "correction",
+    "difficulty": "standard",
+    "prompt": "資料を提室する。",
+    "target": "",
+    "answers": [
+      "室→出"
+    ],
+    "explanation": "提出は差し出すこと。",
+    "instruction": "誤りを「誤字→正字」の形で答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "correction-014",
+    "category": "correction",
+    "difficulty": "standard",
+    "prompt": "計算の結課を確かめる。",
+    "target": "",
+    "answers": [
+      "課→果"
+    ],
+    "explanation": "結果は物事から生じたこと。",
+    "instruction": "誤りを「誤字→正字」の形で答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "correction-015",
+    "category": "correction",
+    "difficulty": "advanced",
+    "prompt": "食料を貯造する。",
+    "target": "",
+    "answers": [
+      "造→蔵"
+    ],
+    "explanation": "貯蔵は蓄えておくこと。",
+    "instruction": "誤りを「誤字→正字」の形で答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "correction-016",
+    "category": "correction",
+    "difficulty": "advanced",
+    "prompt": "仲間を激例する。",
+    "target": "",
+    "answers": [
+      "例→励"
+    ],
+    "explanation": "激励は励ますこと。",
+    "instruction": "誤りを「誤字→正字」の形で答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "correction-017",
+    "category": "correction",
+    "difficulty": "advanced",
+    "prompt": "技術が進保する。",
+    "target": "",
+    "answers": [
+      "保→歩"
+    ],
+    "explanation": "進歩はよりよい方向に進むこと。",
+    "instruction": "誤りを「誤字→正字」の形で答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "correction-018",
+    "category": "correction",
+    "difficulty": "advanced",
+    "prompt": "相手の立場を理改する。",
+    "target": "",
+    "answers": [
+      "改→解"
+    ],
+    "explanation": "理解は意味が分かること。",
+    "instruction": "誤りを「誤字→正字」の形で答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "correction-019",
+    "category": "correction",
+    "difficulty": "advanced",
+    "prompt": "新しい制土を導入する。",
+    "target": "",
+    "answers": [
+      "土→度"
+    ],
+    "explanation": "制度は社会や組織の仕組み。",
+    "instruction": "誤りを「誤字→正字」の形で答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  },
+  {
+    "id": "correction-020",
+    "category": "correction",
+    "difficulty": "advanced",
+    "prompt": "目標を達正する。",
+    "target": "",
+    "answers": [
+      "正→成"
+    ],
+    "explanation": "達成は成し遂げること。",
+    "instruction": "誤りを「誤字→正字」の形で答えましょう。",
+    "review": "editor-reviewed",
+    "source": "独自作成・編集時内容確認（専門家校閲前）"
+  }
+]

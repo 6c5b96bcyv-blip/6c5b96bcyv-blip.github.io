@@ -1,0 +1,4 @@
+const CACHE="kanji-step-1791503318480",ASSETS=["/","/assets/index-BcGsk3Xf.css","/assets/index-C1GCQmBv.js","/favicon.svg","/file.svg","/globe.svg","/icon-192.png","/icon-512.png","/index.html","/manifest.webmanifest","/questions.json","/window.svg"];
+self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting())));
+self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('kanji-step-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
+self.addEventListener('fetch',e=>{if(e.request.method!=='GET'||new URL(e.request.url).origin!==self.location.origin)return;e.respondWith(caches.match(e.request).then(hit=>hit||fetch(e.request).catch(()=>e.request.mode==='navigate'?caches.match('/'):Response.error())));});
